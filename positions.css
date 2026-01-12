@@ -1,0 +1,29 @@
+ *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .container{
+            background-color: red;
+            width: 500px;
+            height: 400px;
+            margin: 100px auto;
+            position: relative;
+
+        }
+        .box{
+            background-color: blue;
+            width: 500px;
+            height: 130px;
+            position: absolute;
+            top: 34%;
+        }
+        .box2{
+            background-color: white;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            position: absolute;
+            top: 11px;
+            left: 200px;
+        }
